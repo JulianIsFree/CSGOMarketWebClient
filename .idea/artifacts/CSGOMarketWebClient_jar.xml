@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSGOMarketWebClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSGOMarketWebClient_jar</output-path>
+    <root id="archive" name="CSGOMarketWebClient.jar">
+      <element id="module-output" name="CSGOMarketWebClient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-java.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
